@@ -17,4 +17,4 @@ $ yarn watch # npm run watch
 
 ## Sreenshots
 
-![alt text](https://github.com/OjashKush//Screenshot_20221015_024249.png)# Digital-Visiting-Card
+![alt text](https://github.com/OjashKush/Digital-Visiting-Card/blob/main/Screenshot_20221015_024249.png)
