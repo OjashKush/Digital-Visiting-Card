@@ -1,0 +1,303 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    position: absolute;
+width: 540px;
+height: 963px;
+left: 318px;
+top: 494px;
+
+background: #23252C;
+}
+
+.rect {
+    position: absolute;
+width: 317px;
+height: 399px;
+left: 116px;
+top: 361px;
+
+background: #1A1B21;
+}
+
+.main--title {
+position: absolute;
+width: 204px;
+height: 30px;
+left: 186px;
+top: 382px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.main--sub {
+    position: absolute;
+    width: 178.06px;
+    height: 14.19px;
+    left: 186px;
+    top: 414px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    text-align: center;
+
+    color: #F3BF99;
+
+}
+
+.main--web {
+    position: absolute;
+width: 228px;
+height: 16px;
+left: 161px;
+top: 437px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+/* identical to box height, or 15px */
+
+text-align: center;
+
+color: #F5F5F5;
+
+}
+
+.btn {
+    /* Button */
+
+
+box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 13px 9px 11px;
+gap: 8px;
+
+position: absolute;
+width: 247px;
+height: 34px;
+left: 151px;
+top: 469px;
+
+/* white */
+
+background: #FFFFFF;
+/* gray/300 */
+
+border: 1px solid #D1D5DB;
+/* shadow/sm */
+
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 6px;
+}
+
+.group {
+    position: absolute;
+width: 247px;
+height: 201px;
+left: 151px;
+top: 535px;
+
+}
+
+.icon {
+   position: absolute;
+width: 317px;
+height: 317px;
+left: 116px;
+top: 44px;
+
+background: url(.png);
+border-radius: 10px 10px 0px 0px; 
+}
+
+.group-412 {
+    position: absolute;
+width: 247px;
+height: 201px;
+left: 151px;
+top: 537px;
+}
+
+.about-title {
+    position: absolute;
+width: 242.71px;
+height: 21px;
+left: 151px;
+top: 537px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+
+color: #F5F5F5;
+
+}
+
+
+.interests-title {
+    position: absolute;
+width: 242.71px;
+height: 21px;
+left: 151px;
+top: 651px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+
+color: #F5F5F5;
+
+}
+
+.about-info {
+    position: absolute;
+width: 247px;
+height: 61px;
+left: 151px;
+top: 563px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+/* or 15px */
+
+
+color: #DCDCDC;
+
+}
+
+
+.interests-info {
+    position: absolute;
+width: 247px;
+height: 61px;
+left: 151px;
+top: 677px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+/* or 15px */
+
+
+color: #DCDCDC;
+}
+
+.group-412 {
+    background: #1A1B21;
+    position: absolute;
+width: 317px;
+height: 399px;
+}
+
+.icngit {
+    Width: 24.55px;
+Height: 27.74px;
+    position: absolute;
+left: 29.91%;
+right: 65.55%;
+top: 89.8%;
+bottom: 7.32%;
+
+//background: #918E9B;
+}
+
+.icntwitter {
+    Width: 24.55px;
+Height: 27.74px;
+    position: absolute;
+left: 38.82%;
+right: 56.64%;
+top: 89.8%;
+bottom: 7.32%;
+
+//background: #918E9B;
+
+}
+
+.icnsnapchat {
+    Width: 24.55px;
+Height: 27.74px;
+    position: absolute;
+left: 47.73%;
+right: 47.73%;
+top: 89.8%;
+bottom: 7.32%;
+
+//background: #918E9B;
+}
+
+.icnmail {
+    Width: 24.55px;
+Height: 27.74px;
+    position: absolute;
+left: 56.64%;
+right: 38.82%;
+top: 89.8%;
+bottom: 7.32%;
+}
+
+.icnlinkedin {
+    position: absolute;
+    Width: 24.55px;
+Height: 27.74px;
+left: 65.55%;
+right: 29.91%;
+top: 89.8%;
+    bottom: 7.32%;
+ }
+
+.rectangle {
+    position: absolute;
+width: 317px;
+height: 64px;
+left: 116px;
+top: 760px;
+
+background: #161619;
+border-radius: 0px 0px 10px 10px;
+    
+}
+
+.foot {
+    position: absolute;
+width: 317px;
+height: 64px;
+left: 116px;
+top: 760px;
+
+background: #161619;
+border-radius: 0px 0px 10px 10px;
+}
